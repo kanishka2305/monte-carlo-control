@@ -1,7 +1,7 @@
 # MONTE CARLO CONTROL ALGORITHM
 
 ## AIM
-Write the experiment AIM.
+The aim is to use Monte Carlo Control in a specific environment to learn an optimal policy, estimate state-action values, iteratively improve the policy, and optimize decision-making through a functional reinforcement learning algorithm.
 
 ## PROBLEM STATEMENT
 The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges reinforcement learning agents to navigate a slippery terrain to reach a goal state while avoiding hazards. Note that the environment is closed with a fence, so the agent cannot leave the gridworld.
